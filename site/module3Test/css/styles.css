@@ -1,0 +1,35 @@
+
+.navbar-brand {
+	height: 100px;
+}
+header #header-nav {
+	background-color: #ffddcc;
+}
+
+h1 {
+	color: #ff7733;
+	text-shadow: 2px 2px #6666ff;
+}
+h2 {
+	color: orange;
+}
+h3 {
+	color: purple;
+	text-shadow: 3px 3px white;
+	padding-top: 15px;
+}
+#header-nav button {
+	margin-top: 40px;
+}
+
+#BackToTop {
+	padding-bottom: 50px;
+}
+
+#main-content {
+	background-color: #ffe6e6
+}
+#main-content p {
+	padding-top: 20px;
+	font-size: 1.2em;
+}
